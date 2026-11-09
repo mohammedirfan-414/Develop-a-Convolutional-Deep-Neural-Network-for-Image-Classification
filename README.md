@@ -40,8 +40,8 @@ Test the model with a new image and display the actual and predicted class label
 
 ### DEVELOPED BY :
 ```
-NAME : NAVEEN V
-REG NO : 212225240098 
+NAME : H.MOHAMMED IRFAN
+REG NO : 212225230179
 ```
 
 ```python
